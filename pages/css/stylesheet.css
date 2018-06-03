@@ -1,3 +1,8 @@
+body{
+    background-color: #EEEEEE;
+    margin-left: 25px; 
+}
+
 h1{
     font-family: 'Open Sans', sans-serif;
     font-weight: 700;
@@ -33,6 +38,8 @@ button{
     cursor: pointer;
 }
 
+/*----------------------------------------------------------*/
+
 .colorbox{
     min-height: 30px;
     max-width: 250px;
@@ -60,3 +67,39 @@ button{
 .box4{
     background-color: #fafafa;
 }
+
+/*----------------------------------------------------------*/
+
+.shadowbox{
+    background-color: #fafafa;
+    max-width: 70%;
+    border: 3px solid #6a2d84;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
