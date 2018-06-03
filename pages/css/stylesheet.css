@@ -1,0 +1,21 @@
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 30pt;
+    color: #1a1a1a;
+}
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 16pt;
+    font-style: italic;
+    color: #3c3c3b;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 12pt;
+    color: #3c3c3b;
+}
