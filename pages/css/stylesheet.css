@@ -19,3 +19,16 @@ p{
     font-size: 12pt;
     color: #3c3c3b;
 }
+
+button{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 12pt;
+    color: #fafafa;
+    text-transform: uppercase;
+    background-color: #ae4ad9;
+    border: 3px solid #6a2d84;
+    padding: 10px 25px;
+    text-align: center;
+    cursor: pointer;
+}
