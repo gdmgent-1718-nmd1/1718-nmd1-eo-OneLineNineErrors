@@ -32,3 +32,31 @@ button{
     text-align: center;
     cursor: pointer;
 }
+
+.colorbox{
+    min-height: 30px;
+    max-width: 250px;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.colorboxp{
+    color: black;
+    font-weight: 600;
+}
+
+.box1{
+    background-color: #AE4AD9;
+}
+
+.box2{
+    background-color: #6a2d84;
+}
+
+.box3{
+    background-color: #EEEEEE;
+}
+
+.box4{
+    background-color: #fafafa;
+}
